@@ -1,0 +1,68 @@
+planilha consiste em 
+id | tempo(“1”início,”2”20minutos,”3”40minutos,”4”60minutos) | Pontuação de dor | 
+Grupo Paracetamol/compressa | Idade | estado civil | Escolaridade | trabalho | Residencia | Visitantes | partos vivenciados
+gravidezes | Renda | Sexo do bb | Peso ao nascer | Estado do perineio | digreetare** | Amamentação
+
+
+id
+		(tempo) - AZUL
+inicio
+20 a 40 min
+60 min
+		(pontuação de dor) VERMELHO
+baixa 1 a 3
+media 4 a 6
+alta 7 a 10
+		(Grupo) AMARELO
+paracetamol - ce nao fez paracetamol entao fez compressa
+(x)compressa
+		(idade) CINZA
+pre-jovem (<18) - tipo 5% dos casos
+jovem 18 a 27
+adulto 28 a 50
+idoso (>50) - nem precisa
+		(Estado Civil) ROSA
+Casada -  ce nao e casada e solteira
+(x)Solteira
+		(Escolaridade) VERDE
+sem TIREI
+pimaria
+secundaria
+		(trabalha) MARROM
+empregado
+dona de casa
+camponesa
+		(residencia) ROXO
+rural -  se nao e da rural e da urbana
+(x) urbana
+		(visitas) LARANJA
+baixa 1 a 2
+media 3 a 5
+alta >5
+		(partos) MAGENTA
+primeiro 1
+segundo
+3 e 4
+> 4
+		(gravidez) tira da tabela cpa ne
+primeiro 1
+segundo
+3 e 4
+> 4
+		(renda) VERDE
+< que 1 dolar por dia
+> que 1 dolar por dia - nao precisa cpa
+		(sexo do bb) AZUL CLARO
+menino
+(x)menina - nao precisa cpa 
+		(peso do bb) AZUL ESCURO
+menor que 3
+maior que 3 - nao precisa cpa
+		(estado do perineo) BRANCO-VERMELHO
+rompido
+intacto 
+		(amamentação) PRETO
+dentro da primeira hora
+depois da primeira hora
+
+44 colunas20

@@ -1,0 +1,2 @@
+from src.extract import planilha_organization
+planilha_organization()
